@@ -1,0 +1,14 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "Small_app_that_sorts_arrays_objects_and_more_stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sort"
+  ],
+  "author": "Ronald Pineda",
+  "license": "ISC"
+}
